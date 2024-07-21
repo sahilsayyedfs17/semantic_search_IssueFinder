@@ -1,0 +1,4 @@
+exiting from 3rd party,VTVAS-1888 -> EXITAPPS Exiting any 3rd party app goes back to black screen
+agrement screen double over on video,VTVAS-11368 -> Privacy consent screen overlaps with the Background Video
+
+Remote stops working after reset,VTVAS-9831 -> RCUFTU After the STB factory reset RCU sometimes stops working (BLE and IR impacted). ,1
